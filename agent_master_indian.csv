@@ -1,0 +1,151 @@
+agent_id,agent_name,gender,team,manager,shift,location,experience_years,joining_date
+AG001,Siddharth Gupta,Male,Payment Support,Anjali Mehta,Night,Pune,8,04/09/2025
+AG002,Harsh Bhatt,Female,Technical Support,Rahul Sharma,Morning,Hyderabad,7,01/25/2022
+AG003,Kavya Iyer,Agender,Order Management,Amit Verma,Evening,Bangalore,5,08/21/2024
+AG004,Pranav Kale,Female,Technical Support,Rahul Sharma,Evening,Pune,7,09/14/2021
+AG005,Rahul Shukla,Female,Returns & Refunds,Priyanka Shah,Morning,Pune,5,01/17/2024
+AG006,Nandini Mehta,Female,Technical Support,Rahul Sharma,Night,Bangalore,7,05/16/2024
+AG007,Aditya Shukla,Male,Account Support,Rakesh Iyer,Morning,Bangalore,2,05/28/2022
+AG008,Vivaan Rathod,Female,Technical Support,Rahul Sharma,Morning,Pune,5,01/05/2023
+AG009,Ritika Chauhan,Male,Billing Support,Neha Patel,Night,Pune,4,05/20/2025
+AG010,Pallavi Patel,Female,Payment Support,Anjali Mehta,Morning,Bangalore,3,06/25/2024
+AG011,Ritika Jain,Female,Order Management,Amit Verma,Evening,Pune,7,11/30/2021
+AG012,Tushar Verma,Male,Product Support,Pooja Nair,Night,Hyderabad,6,06/14/2021
+AG013,Akash Nair,Male,Delivery Support,Vikram Desai,Morning,Bangalore,2,04/12/2023
+AG014,Ritika Patil,Genderqueer,Payment Support,Anjali Mehta,Morning,Hyderabad,3,09/26/2021
+AG015,Sneha Chauhan,Female,Account Support,Rakesh Iyer,Morning,Pune,5,04/08/2022
+AG016,Deepak Pawar,Male,Technical Support,Rahul Sharma,Evening,Pune,8,06/23/2025
+AG017,Rohit Naidu,Male,Billing Support,Neha Patel,Evening,Hyderabad,7,08/22/2022
+AG018,Deepak Desai,Male,Customer Success,Sandeep Gupta,Evening,Pune,6,01/10/2025
+AG019,Meera Bhatt,Male,Account Support,Rakesh Iyer,Evening,Hyderabad,5,09/24/2021
+AG020,Shreya Joshi,Male,Order Management,Amit Verma,Evening,Pune,2,04/29/2023
+AG021,Khushi Naidu,Female,Premium Support,Kavita Joshi,Night,Hyderabad,7,07/27/2021
+AG022,Swati Pandey,Female,Customer Success,Sandeep Gupta,Morning,Pune,6,01/15/2021
+AG023,Ashish Chauhan,Female,Returns & Refunds,Priyanka Shah,Morning,Pune,8,12/23/2024
+AG024,Rahul Pawar,Male,Customer Success,Sandeep Gupta,Night,Hyderabad,3,01/25/2024
+AG025,Nitin Sharma,Agender,Customer Success,Sandeep Gupta,Morning,Hyderabad,3,10/08/2024
+AG026,Simran Solanki,Male,Technical Support,Rahul Sharma,Night,Pune,4,04/03/2023
+AG027,Pooja Iyer,Female,Product Support,Pooja Nair,Morning,Hyderabad,6,08/16/2022
+AG028,Nandini Chawla,Female,Delivery Support,Vikram Desai,Evening,Hyderabad,2,08/24/2021
+AG029,Divya Kulkarni,Female,Payment Support,Anjali Mehta,Evening,Hyderabad,2,02/27/2022
+AG030,Deepak Reddy,Female,Delivery Support,Vikram Desai,Evening,Bangalore,8,07/20/2023
+AG031,Aditi Singh,Female,Order Management,Amit Verma,Evening,Pune,7,07/01/2021
+AG032,Mohit Singh,Female,Account Support,Rakesh Iyer,Night,Hyderabad,7,07/12/2024
+AG033,Aman Verma,Non-binary,Technical Support,Rahul Sharma,Morning,Pune,1,11/02/2023
+AG034,Shreya Patel,Male,Returns & Refunds,Priyanka Shah,Night,Hyderabad,5,11/17/2024
+AG035,Mansi Iyer,Female,Account Support,Rakesh Iyer,Morning,Bangalore,2,06/22/2025
+AG036,Shreya Singh,Male,Technical Support,Rahul Sharma,Morning,Hyderabad,8,09/15/2022
+AG037,Komal Soni,Female,Product Support,Pooja Nair,Morning,Hyderabad,3,02/14/2021
+AG038,Krishna Pillai,Male,Delivery Support,Vikram Desai,Morning,Pune,6,07/23/2025
+AG039,Aarav Das,Male,Delivery Support,Vikram Desai,Morning,Bangalore,4,10/04/2022
+AG040,Ritika Yadav,Genderqueer,Order Management,Amit Verma,Morning,Bangalore,4,12/01/2025
+AG041,Swati Yadav,Female,Premium Support,Kavita Joshi,Morning,Bangalore,4,02/25/2025
+AG042,Riya Kapoor,Male,Product Support,Pooja Nair,Evening,Bangalore,5,07/01/2025
+AG043,Ritesh Reddy,Male,Product Support,Pooja Nair,Morning,Hyderabad,1,12/02/2021
+AG044,Ananya Nair,Female,Billing Support,Neha Patel,Evening,Bangalore,2,09/17/2022
+AG045,Aman Gandhi,Polygender,Customer Success,Sandeep Gupta,Night,Hyderabad,4,11/19/2025
+AG046,Khushi Bhat,Male,Returns & Refunds,Priyanka Shah,Evening,Hyderabad,7,06/22/2024
+AG047,Shreya Soni,Female,Account Support,Rakesh Iyer,Morning,Pune,7,04/16/2022
+AG048,Aniket Pandey,Female,Product Support,Pooja Nair,Evening,Pune,3,10/20/2025
+AG049,Yash Malhotra,Female,Delivery Support,Vikram Desai,Morning,Hyderabad,5,04/25/2021
+AG050,Sneha Bhat,Male,Payment Support,Anjali Mehta,Evening,Hyderabad,7,11/28/2022
+AG051,Ashish Patel,Male,Customer Success,Sandeep Gupta,Night,Pune,8,01/12/2021
+AG052,Ishita Patel,Female,Payment Support,Anjali Mehta,Morning,Hyderabad,5,05/02/2025
+AG053,Ishita Saxena,Male,Returns & Refunds,Priyanka Shah,Morning,Hyderabad,2,07/31/2024
+AG054,Priya Desai,Female,Account Support,Rakesh Iyer,Evening,Pune,6,11/30/2024
+AG055,Nitin Thakur,Male,Premium Support,Kavita Joshi,Morning,Hyderabad,2,01/19/2022
+AG056,Muskan Das,Non-binary,Delivery Support,Vikram Desai,Morning,Hyderabad,2,03/17/2023
+AG057,Payal Chawla,Male,Payment Support,Anjali Mehta,Night,Hyderabad,6,03/31/2022
+AG058,Riya Jain,Male,Billing Support,Neha Patel,Night,Pune,2,06/04/2024
+AG059,Karan Menon,Female,Billing Support,Neha Patel,Morning,Hyderabad,6,12/06/2022
+AG060,Varun Rao,Male,Order Management,Amit Verma,Morning,Pune,8,08/21/2025
+AG061,Rohit Kale,Male,Returns & Refunds,Priyanka Shah,Morning,Hyderabad,3,05/08/2025
+AG062,Aniket Dubey,Male,Customer Success,Sandeep Gupta,Morning,Bangalore,1,04/08/2024
+AG063,Arjun Bhatt,Female,Returns & Refunds,Priyanka Shah,Evening,Hyderabad,5,12/15/2023
+AG064,Arjun Chawla,Female,Payment Support,Anjali Mehta,Evening,Pune,5,04/15/2023
+AG065,Simran Saxena,Female,Premium Support,Kavita Joshi,Evening,Pune,2,08/24/2021
+AG066,Priya Patel,Male,Product Support,Pooja Nair,Night,Pune,4,08/03/2023
+AG067,Tanvi Verma,Male,Premium Support,Kavita Joshi,Morning,Hyderabad,8,08/11/2025
+AG068,Shreya Dubey,Male,Billing Support,Neha Patel,Morning,Hyderabad,2,09/23/2023
+AG069,Arjun Agarwal,Male,Technical Support,Rahul Sharma,Evening,Pune,5,04/21/2022
+AG070,Muskan Shah,Female,Product Support,Pooja Nair,Evening,Hyderabad,1,08/18/2023
+AG071,Harsh Solanki,Female,Premium Support,Kavita Joshi,Evening,Hyderabad,2,06/29/2024
+AG072,Nikhil Nair,Female,Premium Support,Kavita Joshi,Night,Bangalore,3,01/28/2025
+AG073,Sakshi Yadav,Male,Account Support,Rakesh Iyer,Morning,Hyderabad,4,11/15/2025
+AG074,Preeti Nair,Female,Premium Support,Kavita Joshi,Morning,Bangalore,4,06/14/2024
+AG075,Rakesh Pillai,Male,Returns & Refunds,Priyanka Shah,Morning,Hyderabad,1,01/22/2025
+AG076,Ayush Bhatt,Female,Delivery Support,Vikram Desai,Evening,Hyderabad,6,03/16/2023
+AG077,Rohit Thakur,Female,Customer Success,Sandeep Gupta,Morning,Hyderabad,3,10/15/2024
+AG078,Ishita Pillai,Male,Technical Support,Rahul Sharma,Morning,Pune,2,04/03/2025
+AG079,Pooja Chawla,Female,Returns & Refunds,Priyanka Shah,Morning,Hyderabad,4,08/13/2021
+AG080,Neha Chawla,Genderqueer,Order Management,Amit Verma,Night,Bangalore,1,08/15/2022
+AG081,Siddharth Rao,Male,Technical Support,Rahul Sharma,Evening,Pune,1,01/05/2023
+AG082,Nitin Rathod,Polygender,Account Support,Rakesh Iyer,Morning,Hyderabad,4,07/14/2022
+AG083,Mansi Dubey,Male,Returns & Refunds,Priyanka Shah,Evening,Hyderabad,1,02/28/2021
+AG084,Aishwarya Gandhi,Female,Account Support,Rakesh Iyer,Evening,Bangalore,4,12/30/2021
+AG085,Muskan Agarwal,Male,Billing Support,Neha Patel,Evening,Bangalore,8,08/23/2021
+AG086,Muskan Kumar,Male,Product Support,Pooja Nair,Morning,Hyderabad,6,11/04/2024
+AG087,Tanvi Menon,Female,Account Support,Rakesh Iyer,Morning,Pune,2,07/12/2024
+AG088,Aarav Solanki,Female,Customer Success,Sandeep Gupta,Morning,Pune,5,12/26/2023
+AG089,Rohit Das,Male,Billing Support,Neha Patel,Night,Hyderabad,4,08/18/2023
+AG090,Khushi Desai,Male,Delivery Support,Vikram Desai,Night,Hyderabad,5,05/18/2021
+AG091,Ritika Solanki,Male,Billing Support,Neha Patel,Evening,Hyderabad,5,07/14/2021
+AG092,Nikhil Kulkarni,Male,Customer Success,Sandeep Gupta,Night,Hyderabad,3,10/21/2025
+AG093,Meera Mishra,Female,Product Support,Pooja Nair,Evening,Hyderabad,7,04/17/2021
+AG094,Pooja Kumar,Female,Payment Support,Anjali Mehta,Evening,Pune,8,02/08/2021
+AG095,Aarav Rao,Female,Returns & Refunds,Priyanka Shah,Evening,Bangalore,6,03/25/2025
+AG096,Riya Naidu,Male,Technical Support,Rahul Sharma,Evening,Pune,4,09/17/2023
+AG097,Neha Kumar,Polygender,Technical Support,Rahul Sharma,Evening,Pune,8,03/18/2021
+AG098,Tanvi Mishra,Male,Customer Success,Sandeep Gupta,Morning,Hyderabad,6,07/21/2024
+AG099,Aarav Gandhi,Female,Payment Support,Anjali Mehta,Night,Hyderabad,8,09/05/2025
+AG100,Nandini Yadav,Male,Payment Support,Anjali Mehta,Night,Bangalore,1,11/13/2025
+AG101,Priya Kumar,Male,Returns & Refunds,Priyanka Shah,Morning,Hyderabad,5,04/27/2023
+AG102,Ritesh Pawar,Female,Payment Support,Anjali Mehta,Evening,Bangalore,6,02/16/2022
+AG103,Kavya Patil,Female,Product Support,Pooja Nair,Night,Hyderabad,4,06/22/2025
+AG104,Saurabh Reddy,Male,Customer Success,Sandeep Gupta,Morning,Hyderabad,2,05/14/2023
+AG105,Arjun Soni,Male,Returns & Refunds,Priyanka Shah,Morning,Bangalore,3,04/16/2021
+AG106,Aditi Mehta,Male,Customer Success,Sandeep Gupta,Evening,Hyderabad,5,01/15/2021
+AG107,Riya Soni,Genderfluid,Technical Support,Rahul Sharma,Night,Hyderabad,4,05/20/2022
+AG108,Divya Desai,Male,Order Management,Amit Verma,Morning,Hyderabad,2,12/01/2025
+AG109,Aditya Bhatt,Male,Delivery Support,Vikram Desai,Evening,Bangalore,8,09/22/2025
+AG110,Manish Chawla,Male,Returns & Refunds,Priyanka Shah,Morning,Hyderabad,5,05/28/2023
+AG111,Pooja Kale,Female,Delivery Support,Vikram Desai,Morning,Pune,4,03/20/2024
+AG112,Muskan Patel,Male,Billing Support,Neha Patel,Morning,Hyderabad,1,12/10/2021
+AG113,Divya Das,Female,Order Management,Amit Verma,Morning,Pune,2,12/17/2024
+AG114,Vivaan Saxena,Female,Product Support,Pooja Nair,Morning,Hyderabad,1,02/01/2023
+AG115,Simran Pillai,Female,Order Management,Amit Verma,Morning,Bangalore,3,07/20/2023
+AG116,Rohit Reddy,Female,Order Management,Amit Verma,Evening,Hyderabad,2,05/26/2025
+AG117,Simran Dubey,Male,Returns & Refunds,Priyanka Shah,Night,Hyderabad,4,05/09/2022
+AG118,Saurabh Rathod,Female,Premium Support,Kavita Joshi,Evening,Hyderabad,3,10/15/2025
+AG119,Vivaan Yadav,Male,Product Support,Pooja Nair,Morning,Hyderabad,5,02/18/2025
+AG120,Ayush Kapoor,Female,Payment Support,Anjali Mehta,Evening,Pune,4,02/07/2021
+AG121,Rahul Kulkarni,Non-binary,Order Management,Amit Verma,Morning,Pune,4,10/14/2022
+AG122,Swati Sharma,Female,Product Support,Pooja Nair,Morning,Hyderabad,4,04/22/2023
+AG123,Komal Naidu,Male,Billing Support,Neha Patel,Evening,Hyderabad,2,06/02/2023
+AG124,Aditya Desai,Female,Premium Support,Kavita Joshi,Morning,Hyderabad,2,11/10/2022
+AG125,Rahul Verma,Male,Billing Support,Neha Patel,Morning,Hyderabad,6,11/28/2024
+AG126,Abhishek Singh,Male,Delivery Support,Vikram Desai,Morning,Hyderabad,7,11/07/2022
+AG127,Siddharth Yadav,Female,Delivery Support,Vikram Desai,Evening,Pune,7,03/24/2024
+AG128,Mansi Chawla,Male,Premium Support,Kavita Joshi,Morning,Hyderabad,2,12/09/2023
+AG129,Akash Bhatt,Female,Order Management,Amit Verma,Evening,Hyderabad,8,12/25/2022
+AG130,Nitin Mehta,Female,Account Support,Rakesh Iyer,Morning,Bangalore,7,01/04/2024
+AG131,Mohit Patel,Genderfluid,Order Management,Amit Verma,Night,Pune,8,03/06/2024
+AG132,Shreya Shukla,Male,Premium Support,Kavita Joshi,Evening,Pune,5,12/04/2022
+AG133,Divya Jain,Male,Technical Support,Rahul Sharma,Evening,Bangalore,4,12/05/2022
+AG134,Ayush Patel,Female,Billing Support,Neha Patel,Morning,Hyderabad,5,05/21/2023
+AG135,Abhishek Gandhi,Female,Billing Support,Neha Patel,Evening,Hyderabad,8,09/15/2023
+AG136,Kavya Joshi,Female,Delivery Support,Vikram Desai,Morning,Hyderabad,1,03/08/2025
+AG137,Ananya Pillai,Polygender,Delivery Support,Vikram Desai,Morning,Pune,1,11/02/2022
+AG138,Komal Reddy,Bigender,Account Support,Rakesh Iyer,Evening,Pune,1,05/28/2021
+AG139,Yash Iyer,Male,Account Support,Rakesh Iyer,Night,Bangalore,3,07/17/2021
+AG140,Aishwarya Malhotra,Female,Product Support,Pooja Nair,Night,Pune,7,03/25/2023
+AG141,Ashish Das,Male,Premium Support,Kavita Joshi,Morning,Bangalore,4,07/15/2021
+AG142,Rahul Malhotra,Female,Order Management,Amit Verma,Morning,Pune,8,03/10/2025
+AG143,Sakshi Patel,Female,Payment Support,Anjali Mehta,Morning,Hyderabad,3,12/02/2025
+AG144,Priya Bhat,Male,Premium Support,Kavita Joshi,Morning,Pune,2,09/14/2022
+AG145,Pooja Agarwal,Female,Account Support,Rakesh Iyer,Morning,Hyderabad,4,09/02/2022
+AG146,Harsh Mishra,Male,Customer Success,Sandeep Gupta,Night,Hyderabad,7,03/06/2023
+AG147,Deepak Mehta,Female,Customer Success,Sandeep Gupta,Night,Hyderabad,3,03/01/2021
+AG148,Krishna Naidu,Female,Payment Support,Anjali Mehta,Morning,Hyderabad,4,03/12/2024
+AG149,Nisha Parmar,Male,Billing Support,Neha Patel,Evening,Pune,1,01/16/2021
+AG150,Muskan Reddy,Male,Premium Support,Kavita Joshi,Morning,Bangalore,3,08/05/2023

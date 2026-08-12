@@ -1,0 +1,151 @@
+agent_id,agent_name,gender,team,manager,shift,location,experience_years,Tickets_Handled,Closed_Tickets,Avg_Response_Time,Avg_Resolution_Hours,Avg_CSAT,SLA_Percentage
+109,"Aditya Bhatt",Male,"Delivery Support","Vikram Desai",Evening,Bangalore,8,0,0,NULL,NULL,NULL,NULL
+30,"Deepak Reddy",Female,"Delivery Support","Vikram Desai",Evening,Bangalore,8,0,0,NULL,NULL,NULL,NULL
+125,"Rahul Verma",Male,"Billing Support","Neha Patel",Morning,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+70,"Muskan Shah",Female,"Product Support","Pooja Nair",Evening,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+117,"Simran Dubey",Male,"Returns & Refunds","Priyanka Shah",Night,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+90,"Khushi Desai",Male,"Delivery Support","Vikram Desai",Night,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+60,"Varun Rao",Male,"Order Management","Amit Verma",Morning,Pune,8,0,0,NULL,NULL,NULL,NULL
+1,"Siddharth Gupta",Male,"Payment Support","Anjali Mehta",Night,Pune,8,0,0,NULL,NULL,NULL,NULL
+12,"Tushar Verma",Male,"Product Support","Pooja Nair",Night,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+52,"Ishita Patel",Female,"Payment Support","Anjali Mehta",Morning,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+24,"Rahul Pawar",Male,"Customer Success","Sandeep Gupta",Night,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+84,"Aishwarya Gandhi",Female,"Account Support","Rakesh Iyer",Evening,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+106,"Aditi Mehta",Male,"Customer Success","Sandeep Gupta",Evening,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+134,"Ayush Patel",Female,"Billing Support","Neha Patel",Morning,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+144,"Priya Bhat",Male,"Premium Support","Kavita Joshi",Morning,Pune,2,0,0,NULL,NULL,NULL,NULL
+2,"Harsh Bhatt",Female,"Technical Support","Rahul Sharma",Morning,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+50,"Sneha Bhat",Male,"Payment Support","Anjali Mehta",Evening,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+13,"Akash Nair",Male,"Delivery Support","Vikram Desai",Morning,Bangalore,2,0,0,NULL,NULL,NULL,NULL
+101,"Priya Kumar",Male,"Returns & Refunds","Priyanka Shah",Morning,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+26,"Simran Solanki",Male,"Technical Support","Rahul Sharma",Night,Pune,4,0,0,NULL,NULL,NULL,NULL
+88,"Aarav Solanki",Female,"Customer Success","Sandeep Gupta",Morning,Pune,5,0,0,NULL,NULL,NULL,NULL
+93,"Meera Mishra",Female,"Product Support","Pooja Nair",Evening,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+128,"Mansi Chawla",Male,"Premium Support","Kavita Joshi",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+55,"Nitin Thakur",Male,"Premium Support","Kavita Joshi",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+139,"Yash Iyer",Male,"Account Support","Rakesh Iyer",Night,Bangalore,3,0,0,NULL,NULL,NULL,NULL
+94,"Pooja Kumar",Female,"Payment Support","Anjali Mehta",Evening,Pune,8,0,0,NULL,NULL,NULL,NULL
+47,"Shreya Soni",Female,"Account Support","Rakesh Iyer",Morning,Pune,7,0,0,NULL,NULL,NULL,NULL
+65,"Simran Saxena",Female,"Premium Support","Kavita Joshi",Evening,Pune,2,0,0,NULL,NULL,NULL,NULL
+113,"Divya Das",Female,"Order Management","Amit Verma",Morning,Pune,2,0,0,NULL,NULL,NULL,NULL
+37,"Komal Soni",Female,"Product Support","Pooja Nair",Morning,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+18,"Deepak Desai",Male,"Customer Success","Sandeep Gupta",Evening,Pune,6,0,0,NULL,NULL,NULL,NULL
+123,"Komal Naidu",Male,"Billing Support","Neha Patel",Evening,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+135,"Abhishek Gandhi",Female,"Billing Support","Neha Patel",Evening,Hyderabad,8,0,0,NULL,NULL,NULL,NULL
+87,"Tanvi Menon",Female,"Account Support","Rakesh Iyer",Morning,Pune,2,0,0,NULL,NULL,NULL,NULL
+92,"Nikhil Kulkarni",Male,"Customer Success","Sandeep Gupta",Night,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+136,"Kavya Joshi",Female,"Delivery Support","Vikram Desai",Morning,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+9,"Ritika Chauhan",Male,"Billing Support","Neha Patel",Night,Pune,4,0,0,NULL,NULL,NULL,NULL
+20,"Shreya Joshi",Male,"Order Management","Amit Verma",Evening,Pune,2,0,0,NULL,NULL,NULL,NULL
+7,"Aditya Shukla",Male,"Account Support","Rakesh Iyer",Morning,Bangalore,2,0,0,NULL,NULL,NULL,NULL
+89,"Rohit Das",Male,"Billing Support","Neha Patel",Night,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+118,"Saurabh Rathod",Female,"Premium Support","Kavita Joshi",Evening,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+5,"Rahul Shukla",Female,"Returns & Refunds","Priyanka Shah",Morning,Pune,5,0,0,NULL,NULL,NULL,NULL
+23,"Ashish Chauhan",Female,"Returns & Refunds","Priyanka Shah",Morning,Pune,8,0,0,NULL,NULL,NULL,NULL
+66,"Priya Patel",Male,"Product Support","Pooja Nair",Night,Pune,4,0,0,NULL,NULL,NULL,NULL
+85,"Muskan Agarwal",Male,"Billing Support","Neha Patel",Evening,Bangalore,8,0,0,NULL,NULL,NULL,NULL
+95,"Aarav Rao",Female,"Returns & Refunds","Priyanka Shah",Evening,Bangalore,6,0,0,NULL,NULL,NULL,NULL
+45,"Aman Gandhi",Polygender,"Customer Success","Sandeep Gupta",Night,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+58,"Riya Jain",Male,"Billing Support","Neha Patel",Night,Pune,2,0,0,NULL,NULL,NULL,NULL
+142,"Rahul Malhotra",Female,"Order Management","Amit Verma",Morning,Pune,8,0,0,NULL,NULL,NULL,NULL
+79,"Pooja Chawla",Female,"Returns & Refunds","Priyanka Shah",Morning,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+137,"Ananya Pillai",Polygender,"Delivery Support","Vikram Desai",Morning,Pune,1,0,0,NULL,NULL,NULL,NULL
+25,"Nitin Sharma",Agender,"Customer Success","Sandeep Gupta",Morning,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+74,"Preeti Nair",Female,"Premium Support","Kavita Joshi",Morning,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+138,"Komal Reddy",Bigender,"Account Support","Rakesh Iyer",Evening,Pune,1,0,0,NULL,NULL,NULL,NULL
+111,"Pooja Kale",Female,"Delivery Support","Vikram Desai",Morning,Pune,4,0,0,NULL,NULL,NULL,NULL
+15,"Sneha Chauhan",Female,"Account Support","Rakesh Iyer",Morning,Pune,5,0,0,NULL,NULL,NULL,NULL
+105,"Arjun Soni",Male,"Returns & Refunds","Priyanka Shah",Morning,Bangalore,3,0,0,NULL,NULL,NULL,NULL
+129,"Akash Bhatt",Female,"Order Management","Amit Verma",Evening,Hyderabad,8,0,0,NULL,NULL,NULL,NULL
+46,"Khushi Bhat",Male,"Returns & Refunds","Priyanka Shah",Evening,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+97,"Neha Kumar",Polygender,"Technical Support","Rahul Sharma",Evening,Pune,8,0,0,NULL,NULL,NULL,NULL
+108,"Divya Desai",Male,"Order Management","Amit Verma",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+57,"Payal Chawla",Male,"Payment Support","Anjali Mehta",Night,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+114,"Vivaan Saxena",Female,"Product Support","Pooja Nair",Morning,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+146,"Harsh Mishra",Male,"Customer Success","Sandeep Gupta",Night,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+44,"Ananya Nair",Female,"Billing Support","Neha Patel",Evening,Bangalore,2,0,0,NULL,NULL,NULL,NULL
+80,"Neha Chawla",Genderqueer,"Order Management","Amit Verma",Night,Bangalore,1,0,0,NULL,NULL,NULL,NULL
+28,"Nandini Chawla",Female,"Delivery Support","Vikram Desai",Evening,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+112,"Muskan Patel",Male,"Billing Support","Neha Patel",Morning,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+39,"Aarav Das",Male,"Delivery Support","Vikram Desai",Morning,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+40,"Ritika Yadav",Genderqueer,"Order Management","Amit Verma",Morning,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+121,"Rahul Kulkarni",Non-binary,"Order Management","Amit Verma",Morning,Pune,4,0,0,NULL,NULL,NULL,NULL
+22,"Swati Pandey",Female,"Customer Success","Sandeep Gupta",Morning,Pune,6,0,0,NULL,NULL,NULL,NULL
+145,"Pooja Agarwal",Female,"Account Support","Rakesh Iyer",Morning,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+11,"Ritika Jain",Female,"Order Management","Amit Verma",Evening,Pune,7,0,0,NULL,NULL,NULL,NULL
+36,"Shreya Singh",Male,"Technical Support","Rahul Sharma",Morning,Hyderabad,8,0,0,NULL,NULL,NULL,NULL
+104,"Saurabh Reddy",Male,"Customer Success","Sandeep Gupta",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+3,"Kavya Iyer",Agender,"Order Management","Amit Verma",Evening,Bangalore,5,0,0,NULL,NULL,NULL,NULL
+31,"Aditi Singh",Female,"Order Management","Amit Verma",Evening,Pune,7,0,0,NULL,NULL,NULL,NULL
+130,"Nitin Mehta",Female,"Account Support","Rakesh Iyer",Morning,Bangalore,7,0,0,NULL,NULL,NULL,NULL
+8,"Vivaan Rathod",Female,"Technical Support","Rahul Sharma",Morning,Pune,5,0,0,NULL,NULL,NULL,NULL
+32,"Mohit Singh",Female,"Account Support","Rakesh Iyer",Night,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+73,"Sakshi Yadav",Male,"Account Support","Rakesh Iyer",Morning,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+149,"Nisha Parmar",Male,"Billing Support","Neha Patel",Evening,Pune,1,0,0,NULL,NULL,NULL,NULL
+48,"Aniket Pandey",Female,"Product Support","Pooja Nair",Evening,Pune,3,0,0,NULL,NULL,NULL,NULL
+107,"Riya Soni",Genderfluid,"Technical Support","Rahul Sharma",Night,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+6,"Nandini Mehta",Female,"Technical Support","Rahul Sharma",Night,Bangalore,7,0,0,NULL,NULL,NULL,NULL
+86,"Muskan Kumar",Male,"Product Support","Pooja Nair",Morning,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+119,"Vivaan Yadav",Male,"Product Support","Pooja Nair",Morning,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+43,"Ritesh Reddy",Male,"Product Support","Pooja Nair",Morning,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+100,"Nandini Yadav",Male,"Payment Support","Anjali Mehta",Night,Bangalore,1,0,0,NULL,NULL,NULL,NULL
+68,"Shreya Dubey",Male,"Billing Support","Neha Patel",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+35,"Mansi Iyer",Female,"Account Support","Rakesh Iyer",Morning,Bangalore,2,0,0,NULL,NULL,NULL,NULL
+17,"Rohit Naidu",Male,"Billing Support","Neha Patel",Evening,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+38,"Krishna Pillai",Male,"Delivery Support","Vikram Desai",Morning,Pune,6,0,0,NULL,NULL,NULL,NULL
+132,"Shreya Shukla",Male,"Premium Support","Kavita Joshi",Evening,Pune,5,0,0,NULL,NULL,NULL,NULL
+14,"Ritika Patil",Genderqueer,"Payment Support","Anjali Mehta",Morning,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+76,"Ayush Bhatt",Female,"Delivery Support","Vikram Desai",Evening,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+103,"Kavya Patil",Female,"Product Support","Pooja Nair",Night,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+10,"Pallavi Patel",Female,"Payment Support","Anjali Mehta",Morning,Bangalore,3,0,0,NULL,NULL,NULL,NULL
+140,"Aishwarya Malhotra",Female,"Product Support","Pooja Nair",Night,Pune,7,0,0,NULL,NULL,NULL,NULL
+91,"Ritika Solanki",Male,"Billing Support","Neha Patel",Evening,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+124,"Aditya Desai",Female,"Premium Support","Kavita Joshi",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+141,"Ashish Das",Male,"Premium Support","Kavita Joshi",Morning,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+110,"Manish Chawla",Male,"Returns & Refunds","Priyanka Shah",Morning,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+116,"Rohit Reddy",Female,"Order Management","Amit Verma",Evening,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+61,"Rohit Kale",Male,"Returns & Refunds","Priyanka Shah",Morning,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+19,"Meera Bhatt",Male,"Account Support","Rakesh Iyer",Evening,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+16,"Deepak Pawar",Male,"Technical Support","Rahul Sharma",Evening,Pune,8,0,0,NULL,NULL,NULL,NULL
+21,"Khushi Naidu",Female,"Premium Support","Kavita Joshi",Night,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+59,"Karan Menon",Female,"Billing Support","Neha Patel",Morning,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+75,"Rakesh Pillai",Male,"Returns & Refunds","Priyanka Shah",Morning,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+126,"Abhishek Singh",Male,"Delivery Support","Vikram Desai",Morning,Hyderabad,7,0,0,NULL,NULL,NULL,NULL
+29,"Divya Kulkarni",Female,"Payment Support","Anjali Mehta",Evening,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+127,"Siddharth Yadav",Female,"Delivery Support","Vikram Desai",Evening,Pune,7,0,0,NULL,NULL,NULL,NULL
+4,"Pranav Kale",Female,"Technical Support","Rahul Sharma",Evening,Pune,7,0,0,NULL,NULL,NULL,NULL
+143,"Sakshi Patel",Female,"Payment Support","Anjali Mehta",Morning,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+96,"Riya Naidu",Male,"Technical Support","Rahul Sharma",Evening,Pune,4,0,0,NULL,NULL,NULL,NULL
+81,"Siddharth Rao",Male,"Technical Support","Rahul Sharma",Evening,Pune,1,0,0,NULL,NULL,NULL,NULL
+99,"Aarav Gandhi",Female,"Payment Support","Anjali Mehta",Night,Hyderabad,8,0,0,NULL,NULL,NULL,NULL
+56,"Muskan Das",Non-binary,"Delivery Support","Vikram Desai",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+147,"Deepak Mehta",Female,"Customer Success","Sandeep Gupta",Night,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+69,"Arjun Agarwal",Male,"Technical Support","Rahul Sharma",Evening,Pune,5,0,0,NULL,NULL,NULL,NULL
+33,"Aman Verma",Non-binary,"Technical Support","Rahul Sharma",Morning,Pune,1,0,0,NULL,NULL,NULL,NULL
+78,"Ishita Pillai",Male,"Technical Support","Rahul Sharma",Morning,Pune,2,0,0,NULL,NULL,NULL,NULL
+82,"Nitin Rathod",Polygender,"Account Support","Rakesh Iyer",Morning,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+64,"Arjun Chawla",Female,"Payment Support","Anjali Mehta",Evening,Pune,5,0,0,NULL,NULL,NULL,NULL
+27,"Pooja Iyer",Female,"Product Support","Pooja Nair",Morning,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+34,"Shreya Patel",Male,"Returns & Refunds","Priyanka Shah",Night,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+63,"Arjun Bhatt",Female,"Returns & Refunds","Priyanka Shah",Evening,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+133,"Divya Jain",Male,"Technical Support","Rahul Sharma",Evening,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+148,"Krishna Naidu",Female,"Payment Support","Anjali Mehta",Morning,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+67,"Tanvi Verma",Male,"Premium Support","Kavita Joshi",Morning,Hyderabad,8,0,0,NULL,NULL,NULL,NULL
+49,"Yash Malhotra",Female,"Delivery Support","Vikram Desai",Morning,Hyderabad,5,0,0,NULL,NULL,NULL,NULL
+150,"Muskan Reddy",Male,"Premium Support","Kavita Joshi",Morning,Bangalore,3,0,0,NULL,NULL,NULL,NULL
+62,"Aniket Dubey",Male,"Customer Success","Sandeep Gupta",Morning,Bangalore,1,0,0,NULL,NULL,NULL,NULL
+98,"Tanvi Mishra",Male,"Customer Success","Sandeep Gupta",Morning,Hyderabad,6,0,0,NULL,NULL,NULL,NULL
+131,"Mohit Patel",Genderfluid,"Order Management","Amit Verma",Night,Pune,8,0,0,NULL,NULL,NULL,NULL
+71,"Harsh Solanki",Female,"Premium Support","Kavita Joshi",Evening,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+72,"Nikhil Nair",Female,"Premium Support","Kavita Joshi",Night,Bangalore,3,0,0,NULL,NULL,NULL,NULL
+83,"Mansi Dubey",Male,"Returns & Refunds","Priyanka Shah",Evening,Hyderabad,1,0,0,NULL,NULL,NULL,NULL
+41,"Swati Yadav",Female,"Premium Support","Kavita Joshi",Morning,Bangalore,4,0,0,NULL,NULL,NULL,NULL
+122,"Swati Sharma",Female,"Product Support","Pooja Nair",Morning,Hyderabad,4,0,0,NULL,NULL,NULL,NULL
+53,"Ishita Saxena",Male,"Returns & Refunds","Priyanka Shah",Morning,Hyderabad,2,0,0,NULL,NULL,NULL,NULL
+42,"Riya Kapoor",Male,"Product Support","Pooja Nair",Evening,Bangalore,5,0,0,NULL,NULL,NULL,NULL
+51,"Ashish Patel",Male,"Customer Success","Sandeep Gupta",Night,Pune,8,0,0,NULL,NULL,NULL,NULL
+77,"Rohit Thakur",Female,"Customer Success","Sandeep Gupta",Morning,Hyderabad,3,0,0,NULL,NULL,NULL,NULL
+120,"Ayush Kapoor",Female,"Payment Support","Anjali Mehta",Evening,Pune,4,0,0,NULL,NULL,NULL,NULL
+54,"Priya Desai",Female,"Account Support","Rakesh Iyer",Evening,Pune,6,0,0,NULL,NULL,NULL,NULL
+102,"Ritesh Pawar",Female,"Payment Support","Anjali Mehta",Evening,Bangalore,6,0,0,NULL,NULL,NULL,NULL
+115,"Simran Pillai",Female,"Order Management","Amit Verma",Morning,Bangalore,3,0,0,NULL,NULL,NULL,NULL
