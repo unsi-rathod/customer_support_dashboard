@@ -57,7 +57,7 @@ escalation probability scales with priority (30% for High vs. 4% for Low).
    `vw_agent_performance`, `vw_issue_category_analysis`, `vw_priority_analysis`)
    that feed the Power BI model directly, keeping the heavy aggregation logic in
    SQL rather than DAX.
-8. **Power BI dashboard** (`Customer.pbix`) — a `_Measures` table of DAX
+8. **Power BI dashboard** (`Customer_support_analytics.pbix`) — a `_Measures` table of DAX
    measures sits alongside the two data tables, keeping the model organized.
 
 ## Dashboard Pages
@@ -70,17 +70,58 @@ escalation probability scales with priority (30% for High vs. 4% for Low).
 | **SLA & Bottlenecks** | SLA performance by priority and channel, high-priority SLA compliance, escalation breakdown |
 | **Ticket Details** | Full drill-down ticket table for ad hoc investigation |
 
+## Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Operations & Team
+![Operations & Team](screenshots/operations_team.png)
+
+### Issue Analysis
+![Issue Analysis](screenshots/issue_analysis.png)
+
+### SLA & Bottlenecks
+![SLA & Bottlenecks](screenshots/sla_bottlenecks.png)
+
+### Ticket Details
+![Ticket Details](screenshots/ticket_details.png)
+
 ## Key Findings
 
-*(Fill in with your actual numbers once the dashboard is refreshed against the
-corrected agent data — pull these straight from the Executive Overview and SLA
-& Bottlenecks pages.)*
+- **Resolution rate: 87.98%** of all tickets reach a Resolved or Closed state.
+  (Note: an earlier version of this measure counted only `Status = "Closed"`,
+  which understated resolution rate at ~18.5% — fixed to include `Resolved`
+  as well, since `Closed` is a downstream archival state, not a separate
+  outcome.)
+- **SLA Met Rate: 30.9%** of tickets with a known SLA outcome met their SLA.
+  This excludes the ~12% of tickets (1,202 of 10,000) still `Open`/`Pending`,
+  where no SLA outcome exists yet — those are tracked separately rather than
+  forced into a Yes/No bucket.
+- **Highest-volume issue category: Login Issue**, 850 tickets.
+- **Lowest-CSAT issue category: Internet Banking Error** (avg CSAT 2.74).
+- **Escalation rate: 14.18%** overall; **Billing Support** has the highest
+  team-level escalation rate at 16.57%, notably above the next-closest team
+  (Product Support, 15.2%).
+- **CSAT tracks first response time closely**: average CSAT falls from ~4.0
+  for tickets responded to almost immediately down to ~2.8 for tickets with
+  300+ minute first response times — a clean, monotonic relationship that's
+  the strongest single insight in the dataset.
 
-- Overall SLA achievement rate: **[X]%**
-- Highest-volume issue category: **[X]**, at **[X]** tickets
-- Lowest-CSAT issue category: **[X]**
-- Team with the highest escalation rate: **[X]**
-- Resolution rate (Closed / Total): **[X]%**
+## Setup / Reproducing This Project
+
+```bash
+pip install -r requirements.txt
+python scripts/generate_data.py       # builds agent_master_indian.csv
+python scripts/generate_tickets.py    # builds customer_support_tickets.csv
+```
+
+Then import both CSVs into MySQL and run the scripts in `sql/` in this order:
+`Data_cleaning.sql` → `Data_exploration.sql` → `KPI_Analysis.sql` →
+`Operational_Analysis.sql` → `Adhoc_Business_Operations.sql` →
+`Dashboard_Dataset.sql`. The last script creates the views the Power BI
+dashboard connects to. Open `dashboard/Customer.pbix` and refresh the data
+source to point at your local MySQL instance.
 
 ## Repository Structure
 
@@ -102,5 +143,17 @@ sql/
   Dashboard_Dataset.sql
 dashboard/
   Customer.pbix
+screenshots/
+  executive_overview.png
+  operations_team.png
+  issue_analysis.png
+  sla_bottlenecks.png
+  ticket_details.png
+requirements.txt
+LICENSE
 README.md
-```# customer_support_dashboard
+```
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
