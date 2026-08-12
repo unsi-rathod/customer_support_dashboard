@@ -57,7 +57,7 @@ escalation probability scales with priority (30% for High vs. 4% for Low).
    `vw_agent_performance`, `vw_issue_category_analysis`, `vw_priority_analysis`)
    that feed the Power BI model directly, keeping the heavy aggregation logic in
    SQL rather than DAX.
-8. **Power BI dashboard** (`Customer_support_analytics.pbix`) — a `_Measures` table of DAX
+8. **Power BI dashboard** (`Customer.pbix`) — a `_Measures` table of DAX
    measures sits alongside the two data tables, keeping the model organized.
 
 ## Dashboard Pages
